@@ -1,4 +1,60 @@
 ---
-title: Welcome to my blog
+title: "Tech Prototypes"
+description: "Welcome to my Tech Prototype lineup."
 ---
 
+# Tech Prototypes
+
+Welcome to my collection of 50 tech prototypes. Click on each prototype below to read a detailed review:
+
+
+1. [Prototype #1](reviews/prototype1.md)
+2. Prototype #2
+3. Prototype #3
+4. Prototype #4
+5. Prototype #5
+6. Prototype #6
+7. Prototype #7
+8. Prototype #8
+9. Prototype #9
+10. Prototype #10
+11. Prototype #11
+12. Prototype #12
+13. Prototype #13
+14. Prototype #14
+15. Prototype #15
+16. Prototype #16
+17. Prototype #17
+18. Prototype #18
+19. Prototype #19
+20. Prototype #20
+21. Prototype #21
+22. Prototype #22
+23. Prototype #23
+24. Prototype #24
+25. Prototype #25
+26. Prototype #26
+27. Prototype #27
+28. Prototype #28
+29. Prototype #29
+30. Prototype #30
+31. Prototype #31
+32. Prototype #32
+33. Prototype #33
+34. Prototype #34
+35. Prototype #35
+36. Prototype #36
+37. Prototype #37
+38. Prototype #38
+39. Prototype #39
+40. Prototype #40
+41. Prototype #41
+42. Prototype #42
+43. Prototype #43
+44. Prototype #44
+45. Prototype #45
+46. Prototype #46
+47. Prototype #47
+48. Prototype #48
+49. Prototype #49
+50. Prototype #50
