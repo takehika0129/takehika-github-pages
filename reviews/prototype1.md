@@ -3,7 +3,7 @@ title: "Create a Simple CLI ToDo Management Tool"
 description: ""
 ---
 
-##### [Visit Repository（https://github.com/takehika0129/no1-todo-cli)](https://github.com/takehika0129/no1-todo-cli)
+#### [Visit Repository（https://github.com/takehika0129/no1-todo-cli)](https://github.com/takehika0129/no1-todo-cli)
 
 # **Concept**  
 Building a CLI-based todo application in Python is a great way to practice command-line interfaces, argument parsing, and basic data management. 
