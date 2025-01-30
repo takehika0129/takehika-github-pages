@@ -3,46 +3,46 @@
 Welcome to my collection of 50 tech prototypes. Click on each prototype below to read a detailed review:
 
 
-1. [Prototype #1](reviews/prototype1.md)
-2. Prototype #2
-3. Prototype #3
-4. Prototype #4
-5. Prototype #5
-6. Prototype #6
-7. Prototype #7
-8. Prototype #8
-9. Prototype #9
-10. Prototype #10
-11. Prototype #11
-12. Prototype #12
-13. Prototype #13
-14. Prototype #14
-15. Prototype #15
-16. Prototype #16
-17. Prototype #17
-18. Prototype #18
-19. Prototype #19
-20. Prototype #20
-21. Prototype #21
-22. Prototype #22
-23. Prototype #23
-24. Prototype #24
-25. Prototype #25
-26. Prototype #26
-27. Prototype #27
-28. Prototype #28
-29. Prototype #29
-30. Prototype #30
-31. Prototype #31
-32. Prototype #32
-33. Prototype #33
-34. Prototype #34
-35. Prototype #35
-36. Prototype #36
-37. Prototype #37
-38. Prototype #38
-39. Prototype #39
-40. Prototype #40
+1. [Create a Simple CLI ToDo Management Tool](reveiws/prototype1.md)
+2.	CSV File Data Aggregation Script
+3.	Basic Web Scraping
+4.	Build a Basic HTML/CSS/JavaScript Single-Page Website
+5.	Simple Android Note-Taking App
+6.	Simple iOS Note-Taking App
+7.	Build a Simple Regression Model in Python
+8.	Use AWS CLI to Operate an S3 Bucket
+9.	Simple Web App with Flask
+10.	Simple Data Visualization in Python Using a Public Dataset
+11.	AWS Lambda “Hello World” Hands-On
+12.	Basic Check of AI Chat APIs
+13.	Add API Integration Functionality to an Android App
+14.	Create a Node.js + Express Application That Returns JSON Data
+15.	Simple Market Data Fetching Script
+16.	Basics of Automated Testing in Python
+17.	Basics of Version Control with GitHub
+18.	Create a Simple Shell Script
+19.	Simple Server Providing a Web API with Python
+20.	Analyze Excel Files with Pandas
+21. Web Scraping + Database Storage
+22. Set Up a Slack/Discord Bot for System Monitoring Notifications
+23. Flask + AWS RDS Integrated Application
+24. User Authentication Feature in an Android App
+25. Real-Time Chat in an iOS App
+26. Sample of Reinforcement Learning in Python
+27. Deploy a Machine Learning Model on AWS SageMaker
+28. Create a Web Demo of an Image Classification Model
+29. Backtest an Automated Trading Strategy in Python
+30. Build a REST API with AWS Lambda, API Gateway, and DynamoDB
+31. Set Up a Development Environment with Docker Compose
+32. Build a CI/CD Pipeline (GitHub Actions)
+33. Build a Chatbot with Voiceflow Integrating an External API
+34. Manage Common Libraries with AWS Lambda Layers
+35. Create a Machine Learning Environment Image in Docker
+36. Implement the MVVM Design Pattern in an iOS App
+37. Extend an AI Chat App Using Amazon Bedrock
+38. Add a Feature to Store Conversation History in a DB with Vertex AI
+39. Automatic Infrastructure Diagram Generation & IaC (Infrastructure as Code)
+40. Implement Paper Trading for a Python Automated Trading Algorithm
 41. Prototype #41
 42. Prototype #42
 43. Prototype #43
