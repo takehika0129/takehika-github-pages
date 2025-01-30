@@ -3,7 +3,7 @@
 Welcome to my collection of 50 tech prototypes. Click on each prototype below to read a detailed review:
 
 
-1. [Create a Simple CLI ToDo Management Tool](reveiws/prototype1.md)
+1. [Create a Simple CLI ToDo Management Tool](reviews/prototype1.md)
 2.	CSV File Data Aggregation Script
 3.	Basic Web Scraping
 4.	Build a Basic HTML/CSS/JavaScript Single-Page Website
