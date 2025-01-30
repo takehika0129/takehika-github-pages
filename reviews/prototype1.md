@@ -3,7 +3,7 @@ title: "Create a Simple CLI ToDo Management Tool"
 description: ""
 ---
 
-to [repository](https://github.com/takehika0129/no1-todo-cli)
+## [repository（https://github.com/takehika0129/no1-todo-cli)](https://github.com/takehika0129/no1-todo-cli)
 
 # **Concept**  
 Building a CLI-based todo application in Python is a great way to practice command-line interfaces, argument parsing, and basic data management. 
@@ -12,7 +12,7 @@ The basic idea is to let users manage a list via simple subcommands(`add`, `list
 
 
 # **Features**  
-- Subcommand Structure: Users can run add, list, and remove commands to manage a list.
+- [Subcommand Structure]: Users can run add, list, and remove commands to manage a list.
 - Argument Parsing: The script leverages Python’s `argparse` module, ensuring the user must provide the right inputs in the correct format.
 - Store in JSON : Tasks are stored in a JSON file, allowing them to persist between runs.
 
