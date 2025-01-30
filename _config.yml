@@ -1,1 +1,13 @@
 theme: minima
+
+title: "[takehika0129]" 
+url: "https://github.com/[takehika0129]" 
+description: "" 
+
+minima:
+  skin: dark
+  header_pages:
+    - about.md  
+
+header_pages:
+  - about.md
