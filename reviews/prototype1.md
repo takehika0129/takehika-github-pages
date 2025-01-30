@@ -1,9 +1,7 @@
 ---
 title: "Prototype #1 Review"
-description: "Detailed review of Prototype #1"
+description: "Create a Simple CLI ToDo Management Tool"
 ---
-
-# Prototype #1 Review
 
 **Concept**  
 Explain the core idea of Prototype #1. What problem does it solve? Why is it interesting?
