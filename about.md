@@ -1,4 +1,8 @@
-## About Me
+---
+layout: page
+title: About
+permalink: /about/
+---
 
 ## takehika
 - [GitHub](https://github.com/takehika0129)
