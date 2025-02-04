@@ -12,7 +12,7 @@ The goal is to create a lightweight, efficient, and beginner-friendly script for
 # **Features**
 - **📂 Simple CSV Processing**: Reads CSV files using Python’s csv.reader.
 - **🔍 Smart Data Type Detection**: Dynamically detects and converts data types (`int`, `float`, or `str`) to handle mixed datasets.
-- **📊 **Computes essential metrics**: `sum`, `average`, `min`, and `max` for numerical columns.
+- **📊 Computes essential metrics**: `sum`, `average`, `min`, and `max` for numerical columns.
 - **🚀 Robust Handling of Mixed Data**: Ignores non-numeric data while safely processing CSV columns.
 
 
