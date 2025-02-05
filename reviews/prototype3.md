@@ -3,7 +3,7 @@ title: "Basic Web Scraping"
 description: ""
 ---
 
-#### [Visit (https://github.com/takehika0129/no2-csv-data-aggregation)](https://github.com/takehika0129/no3-basic-web-scraping)
+#### [Visit (https://github.com/takehika0129/no3-basic-web-scraping)](https://github.com/takehika0129/no3-basic-web-scraping)
 
 # **Concept**
 
