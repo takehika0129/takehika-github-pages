@@ -1,6 +1,5 @@
-
 ---
-title: "Basic Web Scraping "
+title: "Basic Web Scraping"
 description: ""
 ---
 
