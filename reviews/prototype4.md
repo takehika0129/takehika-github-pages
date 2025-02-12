@@ -1,5 +1,5 @@
 ---
-title: "Build a Basic HTML/CSS/JavaScript Single-Page Website"
+title: "Build a Basic HTML/CSS/JavaScript Single-Page Website (2025/02/12)"
 description: ""
 ---
 
