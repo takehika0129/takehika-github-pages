@@ -33,6 +33,5 @@ function getRandomColor() {
 - **Expand the Quote Collection**: Right now, the quotes are hardcoded. I could integrate an API to fetch new quotes dynamically.
 - **More Interactive Elements**: Incorporate animations or additional UI elements to enhance engagement.
 
-
 ---
 [Back to All Prototypes](../index.md)
