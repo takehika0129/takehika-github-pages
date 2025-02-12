@@ -6,7 +6,7 @@ Welcome to my collection of 50 tech prototypes. Click on each prototype below to
 1. [Create a Simple CLI ToDo Management Tool (2025/01/30)](reviews/prototype1.md)
 2. [CSV File Data Aggregation Script (2025/02/04)](reviews/prototype2.md)
 3. [Basic Web Scraping (2025/02/05)](reviews/prototype3.md)
-4. [Build a Basic HTML/CSS/JavaScript Single-Page Website (2025)](reviews/prototype4.md)
+4. [Build a Basic HTML/CSS/JavaScript Single-Page Website (2025/02/12)](reviews/prototype4.md)
 5.	Simple Android Note-Taking App
 6.	Simple iOS Note-Taking App
 7.	Build a Simple Regression Model in Python
