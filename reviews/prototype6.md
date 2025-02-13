@@ -3,7 +3,7 @@ title: "Simple iOS note-taking app (2025)"
 description: ""
 ---
 
-#### [Visit (https://github.com/takehika0129/no6-ios-note-taking-app)](https://github.com/takehika0129/no5-ios-note-taking-app)
+#### [Visit (https://github.com/takehika0129/no6-ios-note-taking-app)](https://github.com/takehika0129/no6-ios-note-taking-app)
 
 # **Concept**
 
