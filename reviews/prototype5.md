@@ -9,13 +9,13 @@ description: ""
 This is a simple note-taking app with essential functionality allowing users to quickly create, view, and delete notes without complexity. This app stores notes locally using SharedPreferences, ensuring a lightweight and offline-friendly experience.
 
 
-📖 **How to Use This App**
+# 📖 **How to Use This App**
 
 1️⃣ Creating a Note
-	1.	Tap the Title field and enter the name of your note.
-	2.	Tap the Content field and type the details of your note.
-	3.	Press the “Save” button to store the note.
-	4.	Once saved, the note will appear in the Saved Notes section at the bottom.
+- 1. Tap the Title field and enter the name of your note.
+- 2. Tap the Content field and type the details of your note.
+- 3. Press the “Save” button to store the note.
+- 4. Once saved, the note will appear in the Saved Notes section at the bottom.
 
 2️⃣ Viewing Saved Notes
 	•	All saved notes are displayed in a scrollable list at the bottom of the screen.
