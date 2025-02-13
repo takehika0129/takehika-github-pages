@@ -1,5 +1,5 @@
 ---
-title: "Simple Android note-taking app"
+title: "Simple Android note-taking app (2025/02/13)"
 description: ""
 ---
 
