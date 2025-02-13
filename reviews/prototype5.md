@@ -26,14 +26,19 @@ This is a simple note-taking app with essential functionality allowing users to 
 - If no notes are left, the screen will display “No notes saved.”
 
 
-# **Features**
-- **
+# **Other Features**
+- **📜 Scrollable Notes Section**: Allows users to view old notes smoothly.
+- **🔄 Auto-Clearing Input Fields**: – After saving a note, the input fields are reset for a better user experience.
+
 
 # **Challenges & Solutions**  
-- **
+- **Ensuring Simplicity with Only Two Buttons**: This app needed to be intuitive with minimal controls. Instead of cluttering the UI with multiple actions, I merged functionalities into just “Save” and “Delete Latest” buttons, making note management easy and efficient.
+- **No Scrolling in the Notes List**: Without scrolling, users couldn’t access old notes once multiple entries were saved. This was resolved by implementing LazyColumn, enabling smooth scrolling and ensuring all notes remain accessible.
+
 
 # **Future Improvements**
-- **
+- **Cloud Sync**: Integrate Firebase or Google Drive backup for cross-device access.
+- **Search Functionality**: Allow users to quickly find notes by title or content.
 
   
 ---
