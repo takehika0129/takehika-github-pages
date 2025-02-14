@@ -32,7 +32,7 @@ This is a simple and lightweight iOS note-taking app designed for users who need
 # **Future Improvements**
 - **Cloud Sync**: Enable cross-device access so users can retrieve their notes from different Apple devices.
 - **Search Functionality**: Implement a search bar to allow users to filter notes by title or content.
-  
+
 ---
 [Back to All Prototypes](../index.md)
 
