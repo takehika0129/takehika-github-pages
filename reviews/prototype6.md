@@ -24,7 +24,7 @@ This is a simple and lightweight iOS note-taking app designed for users who need
 - If no notes are left, the screen will display “No notes saved.”
 
 # **Other Features**
-- **📝 Multi-line Text Input**: Users can enter long notes using TextEditor, making it easier to structure their content.
+- **📝 Multi-line Text Input**: Users can enter long notes using `TextEditor`, making it easier to structure their content.
 
 # **Challenges & Solutions**  
 - **Ensuring Simplicity with Only Two Buttons**: The app needed to be intuitive while keeping the UI minimal. Instead of cluttering the interface with multiple actions, I focused on making "Save" and "Delete Latest" the only two buttons for note management. This approach ensures users can efficiently create and remove notes without unnecessary complexity.
