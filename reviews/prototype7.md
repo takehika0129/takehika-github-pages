@@ -6,7 +6,7 @@ description: ""
 #### [Visit (https://github.com/takehika0129/no7-simple-regression-model)](https://github.com/takehika0129/no7-simple-regression-model)
 
 # **Concept**
-This project focuses on building a simple regression model using the California Housing dataset to predict house prices. The goal is to compare `LinearRegression` and `RandomForestRegressor` models, evaluate their performance using `mean_squared_error` and `r2_score`, and visualize the results through scatter plots.
+This project focuses on building a simple regression model using the **California Housing dataset** to predict house prices.
 
 
 # **Features**
