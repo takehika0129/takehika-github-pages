@@ -8,7 +8,7 @@ Welcome to my collection of 50 tech prototypes. Click on each prototype below to
 3. [Basic Web Scraping (2025/02/05)](reviews/prototype3.md)
 4. [Build a Basic HTML/CSS/JavaScript Single-Page Website (2025/02/12)](reviews/prototype4.md)
 5. [Simple Android Note-Taking App (2025/02/13)](reviews/prototype5.md)
-6. [Simple iOS Note-Taking App (2025)](reviews/prototype6.md)
+6. [Simple iOS Note-Taking App (2025/02/14))](reviews/prototype6.md)
 7.	Build a Simple Regression Model in Python
 8.	Use AWS CLI to Operate an S3 Bucket
 9.	Simple Web App with Flask
