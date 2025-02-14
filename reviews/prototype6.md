@@ -1,5 +1,5 @@
 ---
-title: "Simple iOS note-taking app (2025)"
+title: "Simple iOS note-taking app (2025/02/14)"
 description: ""
 ---
 
