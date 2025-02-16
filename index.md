@@ -11,7 +11,7 @@ Welcome to my collection of 50 tech prototypes. Click on each prototype below to
 6. [Simple iOS Note-Taking App (2025/02/14)](reviews/prototype6.md)
 7. [Build a Simple Regression Model in Python (2025/02/15)](reviews/prototype7.md)
 8. [Use AWS CLI to Operate an S3 Bucket (2025/02/17)](reviews/prototype8.md)
-9.	Simple Web App with Flask
+9. [Simple Web App with Flask (2025)](reviews/prototype9.md)
 10.	Simple Data Visualization in Python Using a Public Dataset
 11.	AWS Lambda “Hello World” Hands-On
 12.	Basic Check of AI Chat APIs
