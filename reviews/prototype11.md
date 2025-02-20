@@ -12,13 +12,17 @@ This is designed to demonstrate the fundamentals of AWS Lambda, including deploy
 
 # **📖 How to Set Up AWS Lambda**
 1️⃣ Sign in to the AWS Lambda Console.
+
 2️⃣ Click "Create function" and choose "Author from scratch".
+
 3️⃣ Fill in the details:
 - Function name: hello-world-lambda
 - Runtime: Python 3.x (Choose the latest version available)
 - Architecture: x86_64
 - Permissions: Expand Change default execution role and select "Create a new role with basic Lambda permissions".
+  
 4️⃣ Click "Create function".
+
 5️⃣ Replace the default code with:
 ```sh
 import json
@@ -29,7 +33,9 @@ def lambda_handler(event, context):
         'body': json.dumps('Hello, World!')
     }
 ```
+
 6️⃣ Click "Deploy".
+
 7️⃣ Clieck "Test".
 
    
