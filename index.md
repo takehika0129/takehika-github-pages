@@ -14,7 +14,7 @@ Welcome to my collection of 50 tech prototypes. Click on each prototype below to
 9. [Simple Web App with Flask (2025/02/18)](reviews/prototype9.md)
 10. [Simple Data Visualization in Python Using a Public Dataset (2025/2/19)](reviews/prototype10.md)
 11.	[AWS Lambda “Hello World” Hands-On (2025/02/20)](reviews/prototype11.md)
-12.	Basic Check of AI Chat APIs
+12.	[Response Check of Major AI Chats (2025/02/](reviews/prototype12.md)
 13.	Add API Integration Functionality to an Android App
 14.	Create a Node.js + Express Application That Returns JSON Data
 15.	Simple Market Data Fetching Script
