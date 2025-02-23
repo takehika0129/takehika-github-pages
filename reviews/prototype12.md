@@ -1,5 +1,5 @@
 ---
-title: "Fundamentals of AI Chat APIs (2025/02/)"
+title: "Response Check of AI Chat (2025/02/)"
 description: ""
 ---
 
