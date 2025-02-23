@@ -7,7 +7,7 @@ description: ""
 
 
 # **Concept**
-This project demonstrates how to start AI Chat APIs, **ChatGPT (OpenAI), Gemini (Google), and Titan (Amazon)**.
+This project demonstrates how to start AI Chat APIs, ChatGPT (OpenAI), Gemini (Google), and Titan (Amazon).
 
 
 # **Features**
