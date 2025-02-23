@@ -1,5 +1,5 @@
 ---
-title: "Response Check of AI Chat (2025/02/)"
+title: "Response Check of Major AI Chats (2025/02/)"
 description: ""
 ---
 
