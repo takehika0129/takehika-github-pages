@@ -9,6 +9,18 @@ description: ""
 # **Concept**
 This project demonstrates how to build and deploy a simple `express` server, making it a great starting point for learning server-side development with Node.js.
 
+
+# Usage
+Run the server using:
+```sh
+npm start
+```
+
+The server will start at:
+```sh
+http://localhost:3000
+```
+
   
 # **Future Improvements**
 - **🔗 Connect to a Database**: Extend the API by integrating MongoDB or PostgreSQL.
