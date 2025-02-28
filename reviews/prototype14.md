@@ -10,7 +10,7 @@ description: ""
 This project demonstrates how to build and deploy a simple `express` server, making it a great starting point for learning server-side development with Node.js.
 
 
-# Usage
+# **Usage**
 Run the server using:
 ```sh
 npm start
