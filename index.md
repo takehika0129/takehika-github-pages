@@ -17,7 +17,7 @@ Welcome to my collection of 50 tech prototypes. Click on each prototype below to
 12.	[Response Check of Major AI Chats (2025/02/24)](reviews/prototype12.md)
 13.	[Add API Integration Functionality to an Android App (2025/02/26)](reviews/prototype13.md)
 14.	[Create Simple Express Application That Returns JSON Data (2025/02/28)](reviews/prototype14.md)
-15.	Simple Market Data Fetching Script
+15.	[Simple Market Data Fetching Script (2025/02/28)](reviews/prototype15.md)
 16.	Basics of Automated Testing in Python
 17.	Basics of Version Control with GitHub
 18.	Create a Simple Shell Script
