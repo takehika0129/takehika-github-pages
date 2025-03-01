@@ -39,19 +39,19 @@ class TestFunctionsMath(unittest.TestCase):
 ```
 
 - pytest
-```sh
-@pytest.mark.parametrize("test_input, expected", [
-    (5, 120),
-    (0, 1),
-    (1, 1)
-])
-def test_factorial_valid_inputs(test_input, expected):
-    assert functions_math.factorial(test_input) == expected
-
-def test_factorial_negative():
-    with pytest.raises(ValueError):
-        functions_math.factorial(-5)
-```
+    ```sh
+    @pytest.mark.parametrize("test_input, expected", [
+        (5, 120),
+        (0, 1),
+        (1, 1)
+    ])
+    def test_factorial_valid_inputs(test_input, expected):
+        assert functions_math.factorial(test_input) == expected
+    
+    def test_factorial_negative():
+        with pytest.raises(ValueError):
+            functions_math.factorial(-5)
+    ```
   
 # **Future Improvements**
 - **CI/CD Integration**: Automate test execution in GitHub Actions or similar CI/CD pipelines.
