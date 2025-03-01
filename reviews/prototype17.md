@@ -40,7 +40,7 @@ GitHub provide a structured way to track changes, collaborate, and release updat
 
 
 3️⃣ **Work on a New Feature**
-- Every new functionality is developed in its own `feature` branch.
+- Every new functionality is developed in its own **feature** branch.
   ```sh
   git checkout -b feature/new-feature develop  # Create and switch to a feature branch from develop
   echo "This is a test." > README.md  # Sample file
@@ -56,7 +56,7 @@ GitHub provide a structured way to track changes, collaborate, and release updat
 
 
 4️⃣ **Merge the Feature into Develop**
-- Once the `feature` is complete, it needs to be merged into `develop`.
+- Once the **feature** is complete, it needs to be merged into **develop**.
   ```sh
   git checkout develop  # Switch to the develop branch
   git merge feature/new-feature  # Merge the completed feature into develop
@@ -73,7 +73,7 @@ GitHub provide a structured way to track changes, collaborate, and release updat
 
 
 5️⃣ **Prepare for a Release**
-- Once the project is stable, we create a `release` branch to finalize the update.
+- Once the project is stable, we create a **release** branch to finalize the update.
   ```sh
   git checkout -b release/1.0.0 develop  # Create a release branch from develop
   # Finalize the release (fix minor issues, update documentation, etc.)
@@ -89,7 +89,7 @@ GitHub provide a structured way to track changes, collaborate, and release updat
 
 
 6️⃣ **Merge Release into Main and Develop**
-- Once everything is ready, the `release` is merged into `main` and `develop`.
+- Once everything is ready, the **release** is merged into **main** and **develop**.
   ```sh
   git checkout main  # Switch to main
   git merge release/1.0.0  # Merge the release into main
@@ -124,7 +124,7 @@ GitHub provide a structured way to track changes, collaborate, and release updat
 
 
 8️⃣ **Merge Hotfix into Main and Develop**
-- Once `hotfix` is verified, it should be merged into both `main` and `develop`.
+- Once **hotfix** is verified, it should be merged into both **main** and **develop**.
   ```sh
   git checkout main  # Switch to main
   git merge hotfix/urgent-bug-fix  # Merge the hotfix into main
