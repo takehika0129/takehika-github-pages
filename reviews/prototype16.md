@@ -40,6 +40,7 @@ class TestFunctionsMath(unittest.TestCase):
 
 - pytest
 ```sh
+
 @pytest.mark.parametrize("test_input, expected", [
     (5, 120),
     (0, 1),
