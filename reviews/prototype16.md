@@ -10,7 +10,7 @@ description: ""
 This project focuses on implementing and testing functions in Python, using both `unittest` and `pytest`.
 
 
-# Examples
+# **Examples**
 - function
 ```sh
 def factorial(n):
