@@ -34,6 +34,8 @@ git push -u origin develop  # Push the develop branch to GitHub
 ```
 - `main` contains stable, production-ready code.
 - `develop` is where new features and changes are tested before being released.
+
+
 <br>
 
 
@@ -48,6 +50,8 @@ git push -u origin feature/new-feature  # Push the feature branch to GitHub
 ```
 - Keeping each feature in its own branch prevents conflicts with other changes.
 - You can work independently without affecting the main development branch.
+
+
 <br>
 
 
@@ -63,6 +67,8 @@ git push origin --delete feature/new-feature  # Delete the remote feature branch
 ```
 - This keeps `develop` updated with the latest features.
 - Cleaning up branches prevents unnecessary clutter in the repository.
+
+
 <br>
 
 
@@ -77,6 +83,8 @@ git push -u origin release/1.0.0  # Push the release branch to GitHub
 ```
 - `release` branch locks the version so no new features are added.
 - This branch is used for testing and last-minute fixes before deployment.
+
+
 <br>
 
 
@@ -95,6 +103,8 @@ git push origin --delete release/1.0.0  # Delete the remote release branch
 ```
 - `main` is now updated with the stable release.
 - Merging back into `develop` ensures all bug fixes stay in future versions.
+
+
 <br>
 
 
@@ -108,6 +118,8 @@ git commit -m "Fix urgent bug in production"  # Commit the fix
 git push -u origin hotfix/urgent-bug-fix  # Push the hotfix branch to GitHub
 ```
 - Hotfixes skip `develop` and are applied directly to `main` to fix the issue quickly.
+
+
 <br>
 
 
@@ -126,6 +138,8 @@ git push origin --delete hotfix/urgent-bug-fix  # Delete the remote hotfix branc
 ```
 - `main` gets fixed immediately to prevent further issues.
 - `hotfix` is also merged into develop to prevent regression in future updates.
+
+  
 <br>
 
 
