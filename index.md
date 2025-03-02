@@ -20,7 +20,7 @@ Welcome to my collection of 50 tech prototypes. Click on each prototype below to
 15.	[Simple Market Data Fetching Script (2025/02/28)](reviews/prototype15.md)
 16.	[Basics of Automated Testing in Python (2025/03/01)](reviews/prototype16.md)
 17.	[Basics of Version Control with GitHub (2025/03/01)](reviews/prototype17.md)
-18.	[Create a Simple Shell Script (2025/03/02)](reviews/prototype18.md)
+18.	[Create a Simple Shell Script for Backup (2025/03/02)](reviews/prototype18.md)
 19.	[Simple Server Providing a Web API with Python (2025/03/02)](reviews/prototype19.md)
 20.	[Analyze Excel Files with Pandas (2025/03/02)](reviews/prototype20.md) 
 21. Web Scraping + Database Storage
