@@ -1,5 +1,5 @@
 ---
-title: "Create a Simple Shell Script (2025/03/02)"
+title: "Create a Simple Shell Script for Backup (2025/03/02)"
 description: ""
 ---
 
@@ -10,7 +10,7 @@ description: ""
 This shell script simplifies a backup process by creating timestamped archives and maintaining a “latest” file.
 
 
-# **Future Improvements**
+# **Features**
 - **📂 Directory Backup Automation**: Compresses a specified folder into a .tar.gz archive.
 - **📅 Timestamped Backups**: Ensures each backup has a unique filename with the current date.
 - **💾 Latest Version Retention**: Overwrites a backup-latest.tar.gz file to always keep the most recent backup accessible.
