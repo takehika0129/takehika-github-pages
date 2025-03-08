@@ -3,6 +3,8 @@
 Welcome to my collection of 50 tech prototypes. Click on each prototype below to read a detailed review:
 
 
+## Normal
+
 1. [Create a Simple CLI ToDo Management Tool (2025/01/30)](reviews/prototype1.md)
 2. [CSV File Data Aggregation Script (2025/02/04)](reviews/prototype2.md)
 3. [Basic Web Scraping (2025/02/05)](reviews/prototype3.md)
@@ -22,7 +24,11 @@ Welcome to my collection of 50 tech prototypes. Click on each prototype below to
 17.	[Basics of Version Control with GitHub (2025/03/01)](reviews/prototype17.md)
 18.	[Create a Simple Shell Script for Backup (2025/03/02)](reviews/prototype18.md)
 19.	[Simple Server Providing a Web API with Flask (2025/03/02)](reviews/prototype19.md)
-20.	[Analyze Excel Files with Pandas (2025/03/03)](reviews/prototype20.md) 
+20.	[Analyze Excel Files with Pandas (2025/03/03)](reviews/prototype20.md)
+
+
+## Difficult
+
 21. [Web Scraping + Database Storage (2025/03)](reviews/prototype21.md)
 22. Set Up a Slack/Discord Bot for System Monitoring Notifications
 23. Flask + AWS RDS Integrated Application
