@@ -27,7 +27,7 @@ Welcome to my collection of 50 tech prototypes. Click on each prototype below to
 20.	[Analyze Excel Files with Pandas (2025/03/03)](reviews/prototype20.md)
 
 
-## Difficult
+## Intermediate
 
 21. [Web Scraping + Database Storage (2025/03)](reviews/prototype21.md)
 22. Set Up a Slack/Discord Bot for System Monitoring Notifications
@@ -49,6 +49,10 @@ Welcome to my collection of 50 tech prototypes. Click on each prototype below to
 38. Add a Feature to Store Conversation History in a DB with Vertex AI
 39. Automatic Infrastructure Diagram Generation & IaC (Infrastructure as Code)
 40. Implement Paper Trading for a Python Automated Trading Algorithm
+
+
+## Challenging
+
 41. Prototype #41
 42. Prototype #42
 43. Prototype #43
