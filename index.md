@@ -29,7 +29,7 @@ Welcome to my collection of 50 tech prototypes. Click on each prototype below to
 
 ## Intermediate
 
-21. [Web Scraping + Database Storage (2025/03)](reviews/prototype21.md)
+21. [Web Scraping + Database Storage (2025/03/13)](reviews/prototype21.md)
 22. Set Up a Slack/Discord Bot for System Monitoring Notifications
 23. Flask + AWS RDS Integrated Application
 24. User Authentication Feature in an Android App
